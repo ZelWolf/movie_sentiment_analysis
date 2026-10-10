@@ -102,7 +102,6 @@ Token IDs (B, 128)
 ```
 .
 ├── Sentiment Analysis using Transformer.ipynb   # Full pipeline: data, model, training, evaluation
-├── aclImdb_v1.tar.gz                            # IMDB dataset archive (not tracked; see below)
 └── README.md
 ```
 
